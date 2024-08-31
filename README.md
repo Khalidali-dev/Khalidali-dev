@@ -1,3 +1,5 @@
+https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif
+
 # 👋 Hi, I'm Khalid Ali
 
 ## 🧑‍💻 Full Stack Developer | Android/IOS Developer | Desktop Developer | PWA Developer | UI/UX Designer
