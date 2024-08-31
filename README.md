@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Khalid Ali
 
-## 🧑‍💻 Full Stack Developer | Android/IOS Developer | UI/UX Designer
+## 🧑‍💻 Full Stack Developer | Android/IOS Developer | Desktop Developer | PWA Developer | UI/UX Designer
 
 # 💫 About Me:
 
