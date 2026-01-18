@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 
-I'm a **Full Stack Flutter & Android Native Developer** CEO/Co-Founder of Fragile Technologies with 4 years of experience in creating visually captivating Web, Desktop, and Mobile apps (Android & iOS).
+I'm a **Full Stack Flutter & Android Native Developer** creating visually captivating web, desktop, and mobile apps (Android & iOS). Specializing in front-end and back-end development with a focus on user experience and functionality. Efficiently delivers top-notch projects in fast-paced, collaborative environments.
 🚀 I excel in creating visually captivating web, desktop, and mobile apps with a strong focus on user experience and functionality. 🌟
 
 ### 🌟 Experience
