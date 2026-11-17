@@ -12,14 +12,16 @@
 
 ---
 
-### 🔬 Research & Engineering Focus
-- **Agentic & Neuro-Symbolic AI:** Multi-agent auditing and deterministic clinical/financial workflows (**ClaimSentry**).
-- **Edge AI & On-Device ML:** Quantized LLMs and TFLite inference on mobile & embedded hardware (**Tabib AI**, **DermaPulse**).
-- **Cross-Platform Systems:** Low-latency native bindings (C++ FFI) and offline-first telemetry architectures (**AstroVitals**).
+### 👨‍💻 About Me & Research Focus
+Systems Engineering Lead and Full-Stack AI Engineer with 5+ years of experience architecting scalable, low-latency intelligent software. Currently focused on bridging on-device machine intelligence with resilient cross-platform systems:
+
+- **Agentic & Neuro-Symbolic AI:** Multi-agent orchestration, verifiable RAG pipelines, and deterministic rule-based reasoning for high-stakes domains.
+- **Edge AI & On-Device ML:** Quantized Small Language Models (SLMs) and TensorFlow Lite / LiteRT inference on mobile and resource-constrained embedded hardware.
+- **Cross-Platform & Native Systems:** High-performance native bindings (C++ FFI), real-time telemetry streaming, and offline-first architectures across mobile, web, and desktop.
 
 ### 🛠️ Core Stack
 **AI & Systems:** `Python` `PyTorch` `TFLite / LiteRT` `FastAPI` `C++ FFI` `LangGraph` `Qwen`  
-**Mobile & Cloud:** `Flutter` `Dart` `Kotlin` `Node.js` `PostgreSQL` `Docker` `AWS` `GCP`
+**Mobile & Cloud:** `Flutter` `Dart` `Kotlin` `Swift` `Node.js` `PostgreSQL` `Docker` `AWS` `GCP`
 
 ---
 
