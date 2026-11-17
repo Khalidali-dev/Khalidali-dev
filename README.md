@@ -26,6 +26,6 @@
 ### 📊 GitHub Metrics
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Khalidali-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Khalidali-dev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+  <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Khalidali-dev&theme=tokyonight" />
+  <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Khalidali-dev&theme=tokyonight" />
 </div>
